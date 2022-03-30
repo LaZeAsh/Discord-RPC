@@ -8,4 +8,4 @@ After this go to Rich Presence and add an image with the name of "rpc"
 
 Lastly download the code edit the code to your likings read comments to know what you are changing
 
-Execute it and you should be done!
+Execute it (node .) and you should be done!
